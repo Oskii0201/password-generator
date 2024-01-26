@@ -1,0 +1,16 @@
+.error{
+    color: #ff7606;
+    font-weight: 600;
+}
+.password{
+    overflow: hidden;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+}
+.btn{
+    padding: 5px;
+    background: transparent;
+    border: none;
+    font-size: 1.5rem;
+    color: #c3c3c3;
+}
