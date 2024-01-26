@@ -4,15 +4,39 @@
     padding: 0;
 }
 #root {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+    min-width: 320px;
     max-width: 1280px;
+    min-height: 100vh;
+
     margin: 0 auto;
     padding: 2rem;
 }
 body {
     font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
     font-size: 14px;
-
-    min-width: 320px;
-    min-height: 100vh;
+    color: #c3c3c3;
     background: linear-gradient(to bottom, #1d1d1d 0%, #272727 40%, #0d0d0d 150%);
+}
+
+h1,
+h2{
+    font-weight: 700;
+}
+
+h1{
+    font-size: 2rem;
+}
+h2{
+    font-size: 1.5rem;
+}
+h3{
+    font-size: 1.25rem;
+}
+
+button{
+    cursor: pointer;
 }
