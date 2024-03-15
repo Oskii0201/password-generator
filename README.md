@@ -6,7 +6,7 @@
 </p>
 
 ## Demo
-<a href="https://master--oskar-dybas-password-generator.netlify.app/">React Password Generator App</a>
+<a href="https://master--oskar-dybas-password-generator.netlify.app/" target="blank" rel="noreferrer">React Password Generator App</a>
 
 ## Overview
 
